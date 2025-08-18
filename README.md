@@ -6,6 +6,8 @@ I'm a B.Tech Computer Science student passionate about building efficient, user-
 
 🤝 Always open to new ideas and eager to contribute to innovative tech solutions.
 
+---
+
 <div align="center"> 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
@@ -13,27 +15,29 @@ I'm a B.Tech Computer Science student passionate about building efficient, user-
 </p>
 
 
-
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/arushisingh2666?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
 
+---
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arushisingh20dec@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arushisingh967072)  
 
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arushisingh967072&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=arushisingh967072&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arushisingh967072&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
+---
 
 [![](https://visitcount.itsvg.in/api?id=arushisingh967072&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 
 # 💻 Tech Stack:
